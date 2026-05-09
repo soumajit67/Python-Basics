@@ -18,4 +18,3 @@ Relational operators:-
 >=(Greater than Equal To)
 !=(Not Equal to)
 '''
-
