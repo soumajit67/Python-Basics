@@ -1,4 +1,5 @@
 # Write a python program to perform ATM PROGRAM.
+
 bal=2000
 withdraw=int(input("Enter Amount:-"))#1000
 if bal>=withdraw:
